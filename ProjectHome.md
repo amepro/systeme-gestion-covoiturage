@@ -1,0 +1,1 @@
+Le but du projet est de mettre en place un système de gestion du covoiturage. Il permettra d’une part aux utilisateurs de déposer des annonces et d’autres part de chercher et de postuler à des annonces.
